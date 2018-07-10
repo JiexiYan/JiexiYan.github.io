@@ -25,6 +25,9 @@ Conference
 ------
 * __J. Yan__, C. Deng, X. Liu, Dictionary Learning in Optimal Metric Space, In AAAI Conference on Artificial Intelligence (AAAI), 2018. 
 
+Recent Publications
+======
+* PC member, AAAI 2019 
 
 Friends
 ======
