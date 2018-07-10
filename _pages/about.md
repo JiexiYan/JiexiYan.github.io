@@ -19,12 +19,6 @@ News
 Recent Publications
 ======
 
-
-Journal
-------
-
-Conference
-------
 * __J. Yan__, C. Deng, X. Liu, Dictionary Learning in Optimal Metric Space, In AAAI Conference on Artificial Intelligence (AAAI), 2018. 
 
 Services
