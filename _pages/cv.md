@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Electronic Information Science and Technology, Xidian University, 2017
+* Ph.D candidate in Signal and Information Processing, Xidian University, since 2017
 
 Work experience
 ======
