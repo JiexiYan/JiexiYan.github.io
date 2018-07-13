@@ -28,7 +28,7 @@ Services
 Friends
 ======
 
-* [Chao Li](https://chaoli1991.github.io/)(Xidian University)
-* [Jie Xu](https://jxu1991.github.io/)(Xidian University)
-* [Hao Wang](https://haowang1992.github.io/)(Xidian University)
-* [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian University)
+* [Chao Li](https://chaoli1991.github.io/) (Xidian University)
+* [Jie Xu](https://jxu1991.github.io/) (Xidian University)
+* [Hao Wang](https://haowang1992.github.io/) (Xidian University)
+* [Zhiyuan Dang](https://zhiyuandang.github.io/) (Xidian University)
