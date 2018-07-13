@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first year PhD Candidate co-supervised by Prof. [Heng Huang](http://www.pitt.edu/~heh45/) and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2017.
+I am currently a first year PhD Candidate supervised by Prof. [Heng Huang](http://www.pitt.edu/~heh45/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2017.
 
 My research interests are the broad area of  machine learning, computer vision and deep learning.
 
