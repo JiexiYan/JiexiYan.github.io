@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiexi Yan 闫杰熹"
+title: "Jiexi Yan （闫杰熹）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
