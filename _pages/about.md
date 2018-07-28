@@ -12,8 +12,8 @@ I am currently a first year PhD Candidate supervised by Prof. [Heng Huang](http:
 
 My research interests are the broad area of  machine learning, computer vision and deep learning.
 
-News
-======
+#News
+
 * Nov. 8, 2017, one paper was accepted by AAAI2018 (~25% acceptance rate).
 
 Recent Publications
